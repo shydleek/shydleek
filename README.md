@@ -2,7 +2,7 @@
 
 My name is Matsvei and I am a 2-nd year student of BSU MMF!
 
-I'm learning front-end recently.
+Now I'm learning React.
 
 <details>
 <summary>⚡️ More about my coding life</summary>
